@@ -6,7 +6,7 @@
 
 <div>
   Desarrollador Full-Stack con conocimientos en HTML, CSS, JavaScript, Flask,  React, Bootstrap, Python y SQL.  Orientado al aprendizaje continuo, al 
-trabajo con diversas tecnologías, resolución de problemas y al trabajo en equipo
+trabajo con diversas tecnologías, resolución de problemas y al trabajo en equipo.
 </div>
 
 
