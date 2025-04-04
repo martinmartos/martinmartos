@@ -1,4 +1,4 @@
-# Hola soy Martin Martos, Desarrollador Web Full Stack 👋
+# Hola soy Martin Martos 👋
 
 ### 👨‍💻 Desarrollador Web Full Stack
 
