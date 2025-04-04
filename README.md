@@ -9,6 +9,23 @@
 trabajo con diversas tecnologías, resolución de problemas y al trabajo en equipo
 </div>
 
+🌟 Proyectos Destacados
+
+Aquí algunos de mis proyectos favoritos:
+
+📌 Proyecto: https://github.com/4GeeksAcademy/sp91-final-project-g1
+
+ -4Fantasy - Plataforma Web Full Stack para crear equipos de fútbol en relación al rendimiento real de los jugadores
+
+4Fantasy es una aplicación web full stack donde los usuarios crean equipos virtuales seleccionando jugadores reales de fútbol y acumulando puntos según su rendimiento en partidos reales.
+
+🔹 Tecnologías Utilizadas:
+
+• Frontend: HTML, CSS, React, Bootstrap
+• Backend: Flask, Python, autenticación JWT, APIS
+• Base de datos: MySQ
+
+
 <div style="display: inline_block"><h2>Lenguajes de programación</h2><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
