@@ -1,12 +1,14 @@
 # Hola soy Martin Martos, Desarrollador Web Full Stack 👋
 
+### 👨‍💻 Desarrollador Web Full Stack
+
 #### 📍Jaén,Spain
 
 <div>
   Desarrollador Full-Sack con capacidad de conocimientos en HTML, CSS, JavaScript, Flask,  React, Bootstrap, Python y SQL
 </div>
 
-<div style="display: inline_block"><h2>Lenguajes de programacion</h2><br>
+<div style="display: inline_block"><h2>Lenguajes de programación</h2><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
