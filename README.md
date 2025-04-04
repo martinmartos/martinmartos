@@ -5,7 +5,8 @@
 #### 📍Jaén,Spain
 
 <div>
-  Desarrollador Full-Sack con capacidad de conocimientos en HTML, CSS, JavaScript, Flask,  React, Bootstrap, Python y SQL
+  Desarrollador Full-Sack con capacidad de conocimientos en HTML, CSS, JavaScript, Flask,  React, Bootstrap, Python y SQL.  Orientado al aprendizaje continuo, al 
+trabajo con diversas tecnologías y  resolución de problemas.
 </div>
 
 <div style="display: inline_block"><h2>Lenguajes de programación</h2><br>
