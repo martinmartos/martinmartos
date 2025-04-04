@@ -24,7 +24,7 @@ Aquí algunos de mis proyectos favoritos:
 
 • Frontend: HTML, CSS, React, Bootstrap.
 • Backend: Flask, Python, autenticación JWT, APIS.
-• Base de datos: MySQ.
+• Base de datos: MySQL.
 
 
 <div style="display: inline_block"><h2>Lenguajes de programación</h2><br>
