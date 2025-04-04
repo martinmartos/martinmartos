@@ -16,7 +16,7 @@ Aquí algunos de mis proyectos favoritos:
 
 📌 Proyecto: https://github.com/4GeeksAcademy/sp91-final-project-g1
 
- ⚽ 4Fantasy - Plataforma Web Full Stack para crear equipos de fútbol en relación al rendimiento real de los jugadores
+ ⚽ 4Fantasy - Plataforma Web Full Stack para crear equipos de fútbol en relación al rendimiento real de los jugadores.
 
 4Fantasy es una aplicación web full stack donde los usuarios crean equipos virtuales seleccionando jugadores reales de fútbol y acumulando puntos según su rendimiento en partidos reales.
 
