@@ -5,12 +5,12 @@
 #### 📍Jaén, España
 
 <div>
-  Desarrollador Full-Stack con capacidad de conocimientos en HTML, CSS, JavaScript, Flask,  React, Bootstrap, Python y SQL.  Orientado al aprendizaje continuo, al 
+  Desarrollador Full-Stack con conocimientos en HTML, CSS, JavaScript, Flask,  React, Bootstrap, Python y SQL.  Orientado al aprendizaje continuo, al 
 trabajo con diversas tecnologías, resolución de problemas y al trabajo en equipo
 </div>
 
 
-🌟 Proyectos Destacados
+#### 🌟 Proyectos Destacados
 
 Aquí algunos de mis proyectos favoritos:
 
@@ -22,9 +22,9 @@ Aquí algunos de mis proyectos favoritos:
 
 🔹 Tecnologías Utilizadas:
 
-• Frontend: HTML, CSS, React, Bootstrap
-• Backend: Flask, Python, autenticación JWT, APIS
-• Base de datos: MySQ
+• Frontend: HTML, CSS, React, Bootstrap.
+• Backend: Flask, Python, autenticación JWT, APIS.
+• Base de datos: MySQ.
 
 
 <div style="display: inline_block"><h2>Lenguajes de programación</h2><br>
