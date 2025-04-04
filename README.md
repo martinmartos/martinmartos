@@ -1,4 +1,4 @@
-# Hola soy Martin Martos, Desarrollor Web Full Stack 👋
+# Hola soy Martin Martos, Desarrollador Web Full Stack 👋
 
 ## 📍 Jaén,Spain
 
