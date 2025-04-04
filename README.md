@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desarrollador Web Full Stack
 
-#### 📍Jaén,Spain
+#### 📍Jaén, España
 
 <div>
   Desarrollador Full-Stack con capacidad de conocimientos en HTML, CSS, JavaScript, Flask,  React, Bootstrap, Python y SQL.  Orientado al aprendizaje continuo, al 
